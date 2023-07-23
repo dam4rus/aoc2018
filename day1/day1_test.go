@@ -9,7 +9,7 @@ import (
 
 var INPUT = []string{"+1", "-2", "+3", "+1"}
 
-func TestDay1(t *testing.T) {
+func TestPart1(t *testing.T) {
 	frequencies, err := day1.ParseInput(INPUT)
 	if err != nil {
 		t.Fatalf("Failed to parse input: %d", err)
@@ -18,7 +18,7 @@ func TestDay1(t *testing.T) {
 	assert.Equal(t, 3, frequency, "Wrong frequency")
 }
 
-func TestDay2(t *testing.T) {
+func TestPart2(t *testing.T) {
 	frequencies, err := day1.ParseInput(INPUT)
 	if err != nil {
 		t.Fatalf("Failed to parse input: %d", err)
