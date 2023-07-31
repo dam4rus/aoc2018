@@ -4,7 +4,7 @@ import (
 	"bufio"
 	_ "embed"
 	"fmt"
-	day1 "rkalmar/aoc2020/day1/internal/pkg"
+	day1 "rkalmar/aoc2018/day1/internal/pkg"
 	"strings"
 )
 

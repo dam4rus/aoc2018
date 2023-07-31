@@ -3,7 +3,7 @@ package main
 import (
 	_ "embed"
 	"fmt"
-	day5 "rkalmar/aoc2020/day5/internal/pkg"
+	day5 "rkalmar/aoc2018/day5/internal/pkg"
 )
 
 //go:embed input.txt

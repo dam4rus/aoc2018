@@ -1,4 +1,4 @@
-module rkalmar/aoc2020/day4
+module rkalmar/aoc2018/day4
 
 go 1.20
 

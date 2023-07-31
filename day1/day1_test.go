@@ -1,7 +1,7 @@
 package main
 
 import (
-	day1 "rkalmar/aoc2020/day1/internal/pkg"
+	day1 "rkalmar/aoc2018/day1/internal/pkg"
 	"testing"
 
 	"github.com/stretchr/testify/assert"
